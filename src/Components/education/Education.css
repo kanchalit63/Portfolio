@@ -50,7 +50,7 @@
     .education-container{
         height: 110vh;
         position: relative;
-        top: 100px;
+        top: 200px;
     }
     .edu-left{
         flex-direction: column;

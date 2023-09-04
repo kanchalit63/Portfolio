@@ -77,3 +77,23 @@
     justify-content: center;
     justify-content: space-around;
 }
+
+
+
+@media screen and (max-width: 480px) {
+    .port-container{
+        height: auto;
+        position: relative;
+        margin: 100px 0;
+    }
+    .all-card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .card-port{
+        margin-top: 20px;
+    }
+}
